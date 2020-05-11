@@ -6,3 +6,4 @@ def countdown
     "#{countdown_to_midnight} SECOND(S)!"
   end
 end
+puts countdown
