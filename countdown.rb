@@ -6,4 +6,5 @@ def countdown
     countdown_to_midnight -= 1
     puts "#{countdown_to_midnight} SECOND(s)"
   end
+  return HAPPY NEW YEAR!
 end
