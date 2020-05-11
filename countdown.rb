@@ -1,7 +1,7 @@
 #write your code here
 def countdown
-  while countdown
-    countdown -= 1
-    puts "#{countdown} SECOND(S)!"
+  while countdown_to_midnight
+    countdown_to_midnight -= 1
+    "#{countdown_to_midnight} SECOND(S)!"
   end
 end
