@@ -2,6 +2,6 @@
 def countdown
   while countdown
     countdown -= 1
-    puts "#{countdown} SECOND(s)!"
+    puts "#{countdown} SECOND(S)!"
   end
 end
